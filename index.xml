@@ -6,25 +6,23 @@
     <description>Recent content on 高肥的嘴砲空間</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tzupingkao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 11:14:08 +0800</lastBuildDate><atom:link href="https://tzupingkao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2_DSP系統定義</title>
+      <link>https://tzupingkao.github.io/2022/06/2_dsp%E7%B3%BB%E7%B5%B1%E5%AE%9A%E7%BE%A9/</link>
+      <pubDate>Thu, 16 Jun 2022 11:14:08 +0800</pubDate>
+      
+      <guid>https://tzupingkao.github.io/2022/06/2_dsp%E7%B3%BB%E7%B5%B1%E5%AE%9A%E7%BE%A9/</guid>
+      <description>&lt;p&gt;解釋 DSP 系統定義與類型中訊號的數學表示法&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>1_訊號的描述</title>
       <link>https://tzupingkao.github.io/2022/06/1_%E8%A8%8A%E8%99%9F%E7%9A%84%E6%8F%8F%E8%BF%B0/</link>
-      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Jun 2022 09:47:47 +0800</pubDate>
       
       <guid>https://tzupingkao.github.io/2022/06/1_%E8%A8%8A%E8%99%9F%E7%9A%84%E6%8F%8F%E8%BF%B0/</guid>
-      <description>1. 訊號的描述 1.1 類比訊號 (Analog Signal) 隨時間改變的連續訊號
-1.1.1 弦波 (Sinusoidal Wave) $x(t)=A\cos\left(\Omega t+\phi\right)$
-或
-$x(t)=A\cos\left(2\pi ft+\phi\right)$
-$A$: 振幅 (Amplitude)
-$f$: 類比頻率 (Analog Frequency)，單位=Hz
-$T$: 類比週期 (Analog Period) $T=\frac1f$，單位=sec
-$\Omega$: 類比角頻率 (Analog Angular Frequency)=$2\pi f=\frac{2\pi}T$，單位= Radians/sec
-$\phi$: 相位移 (Phase Shift)，單位= Radians
-範例
-觀察弦波$x(t)=A\cos\left(2\pi ft+\phi\right)$的波形差異
-振幅: $A=1$ 頻率: $f=1 (Hz)$ 相位移: $\phi=0,;\frac\pi4,;\frac\pi2$ import numpy as np import matplotlib.pyplot as plt t = np.linspace( 0, 1, 1000, endpoint = False )	# 定義時間陣列 phi = [0, np.</description>
+      <description>&lt;p&gt;說明 DSP 中訊號的數學表示法&lt;/p&gt;</description>
     </item>
     
     <item>

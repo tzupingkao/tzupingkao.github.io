@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>signal_processing on 高肥的嘴砲空間</title>
-    <link>https://tzupingkao.github.io/tags/signal_processing/</link>
-    <description>Recent content in signal_processing on 高肥的嘴砲空間</description>
+    <title>DSP Class on 高肥的嘴砲空間</title>
+    <link>https://tzupingkao.github.io/categories/dsp-class/</link>
+    <description>Recent content in DSP Class on 高肥的嘴砲空間</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Jun 2022 11:14:08 +0800</lastBuildDate><atom:link href="https://tzupingkao.github.io/tags/signal_processing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 11:14:08 +0800</lastBuildDate><atom:link href="https://tzupingkao.github.io/categories/dsp-class/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2_DSP系統定義</title>
       <link>https://tzupingkao.github.io/2022/06/2_dsp%E7%B3%BB%E7%B5%B1%E5%AE%9A%E7%BE%A9/</link>

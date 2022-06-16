@@ -33,8 +33,8 @@
 
 <meta property="og:description" content="Hugo tranquilpeak theme demo">
 <meta property="og:type" content="website">
-<meta property="og:title" content="signal_processing">
-<meta name="twitter:title" content="signal_processing">
+<meta property="og:title" content="Signal_Processing">
+<meta name="twitter:title" content="Signal_Processing">
 <meta property="og:url" content="https://tzupingkao.github.io/categories/signal_processing/">
 <meta property="twitter:url" content="https://tzupingkao.github.io/categories/signal_processing/">
 <meta property="og:site_name" content="高肥的嘴砲空間">
@@ -59,7 +59,7 @@
 
 
 
-    <title>signal_processing</title>
+    <title>Signal_Processing</title>
 
     <link rel="icon" href="https://tzupingkao.github.io/favicon.png">
     
@@ -117,7 +117,7 @@
         </a>
         <h4 class="sidebar-profile-name">高肥的嘴砲空間</h4>
         
-          <h5 class="sidebar-profile-bio">Super bio with markdown support <strong>COOL</strong></h5>
+          <h5 class="sidebar-profile-bio">這裡只有<strong>嘴砲</strong>，沒有真理，看看就好</h5>
         
       </div>
     
@@ -242,15 +242,15 @@
     <div class="postShorten-header">
       <h1 class="postShorten-title">
       
-        <a class="link-unstyled" href="https://tzupingkao.github.io/2022/06/1_%E8%A8%8A%E8%99%9F%E7%9A%84%E6%8F%8F%E8%BF%B0/" aria-label="Open the post: 1_訊號的描述">
+        <a class="link-unstyled" href="https://tzupingkao.github.io/2022/06/2_dsp%E7%B3%BB%E7%B5%B1%E5%AE%9A%E7%BE%A9/" aria-label="Open the post: 2_DSP系統定義">
       
-          1_訊號的描述
+          2_DSP系統定義
         </a>
       </h1>
       
   <div class="postShorten-meta post-meta">
     
-      <time datetime="2022-06-16T00:00:00Z">
+      <time datetime="2022-06-16T11:14:08&#43;08:00">
         
   June 16, 2022
 
@@ -261,9 +261,9 @@
   
     <span>in</span>
     
-      <a class="category-link" href="https://tzupingkao.github.io/categories/signal_processing">signal_processing</a>, 
+      <a class="category-link" href="https://tzupingkao.github.io/categories/signal_processing">Signal_Processing</a>, 
     
-      <a class="category-link" href="https://tzupingkao.github.io/categories/features">features</a>
+      <a class="category-link" href="https://tzupingkao.github.io/categories/dsp-class">DSP Class</a>
     
   
 
@@ -272,18 +272,71 @@
     </div>
     <div class="postShorten-excerpt">
       
-        1. 訊號的描述 1.1 類比訊號 (Analog Signal) 隨時間改變的連續訊號
-1.1.1 弦波 (Sinusoidal Wave) $x(t)=A\cos\left(\Omega t+\phi\right)$
-或
-$x(t)=A\cos\left(2\pi ft+\phi\right)$
-$A$: 振幅 (Amplitude)
-$f$: 類比頻率 (Analog Frequency)，單位=Hz
-$T$: 類比週期 (Analog Period) $T=\frac1f$，單位=sec
-$\Omega$: 類比角頻率 (Analog Angular Frequency)=$2\pi f=\frac{2\pi}T$，單位= Radians/sec
-$\phi$: 相位移 (Phase Shift)，單位= Radians
-範例
-觀察弦波$x(t)=A\cos\left(2\pi ft+\phi\right)$的波形差異
-振幅: $A=1$ 頻率: $f=1 (Hz)$ 相位移: $\phi=0,;\frac\pi4,;\frac\pi2$ import numpy as np import matplotlib.pyplot as plt t = np.linspace( 0, 1, 1000, endpoint = False )	# 定義時間陣列 phi = [0, np.
+        <p>解釋 DSP 系統定義與類型中訊號的數學表示法</p>
+      
+      <p>
+        
+          <a href="https://tzupingkao.github.io/2022/06/2_dsp%E7%B3%BB%E7%B5%B1%E5%AE%9A%E7%BE%A9/" class="postShorten-excerpt_link link" aria-label="Open the post: 2_DSP系統定義">Continue reading</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+    <a href="https://tzupingkao.github.io/2022/06/2_dsp%E7%B3%BB%E7%B5%B1%E5%AE%9A%E7%BE%A9/" aria-label="Open the post: 2_DSP系統定義">
+      <div class="postShorten-thumbnailimg">
+        <img alt="" src="//d1u9biwaxjngwg.cloudfront.net/chinese-test-post/vintage-140.jpg"/>
+      </div>
+    </a>
+  
+</article>
+
+            
+              
+  
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-left">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="https://tzupingkao.github.io/2022/06/1_%E8%A8%8A%E8%99%9F%E7%9A%84%E6%8F%8F%E8%BF%B0/" aria-label="Open the post: 1_訊號的描述">
+      
+          1_訊號的描述
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2022-06-16T09:47:47&#43;08:00">
+        
+  June 16, 2022
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://tzupingkao.github.io/categories/signal_processing">Signal_Processing</a>, 
+    
+      <a class="category-link" href="https://tzupingkao.github.io/categories/dsp-class">DSP Class</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        <p>說明 DSP 中訊號的數學表示法</p>
       
       <p>
         
@@ -327,7 +380,7 @@ $\phi$: 相位移 (Phase Shift)，單位= Radians
     
     <h4 id="about-card-name">高肥的嘴砲空間</h4>
     
-      <div id="about-card-bio">Super bio with markdown support <strong>COOL</strong></div>
+      <div id="about-card-bio">這裡只有<strong>嘴砲</strong>，沒有真理，看看就好</div>
     
     
       <div id="about-card-job">
@@ -351,7 +404,7 @@ $\phi$: 相位移 (Phase Shift)，單位= Radians
     
   
     
-      <div id="cover" style="background-image:url('https://tzupingkao.github.io/images/cover.jpg');"></div>
+      <div id="cover" style="background-image:url('https://tzupingkao.github.io/images/cover-v1.2.0.jpg');"></div>
     
   
 

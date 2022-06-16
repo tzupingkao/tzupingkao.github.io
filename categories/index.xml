@@ -6,22 +6,31 @@
     <description>Recent content in Categories on 高肥的嘴砲空間</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tzupingkao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 11:14:08 +0800</lastBuildDate><atom:link href="https://tzupingkao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>features</title>
-      <link>https://tzupingkao.github.io/categories/features/</link>
-      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <title>DSP Class</title>
+      <link>https://tzupingkao.github.io/categories/dsp-class/</link>
+      <pubDate>Thu, 16 Jun 2022 11:14:08 +0800</pubDate>
       
-      <guid>https://tzupingkao.github.io/categories/features/</guid>
+      <guid>https://tzupingkao.github.io/categories/dsp-class/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>signal_processing</title>
+      <title>Signal_Processing</title>
       <link>https://tzupingkao.github.io/categories/signal_processing/</link>
-      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Jun 2022 11:14:08 +0800</pubDate>
       
       <guid>https://tzupingkao.github.io/categories/signal_processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>features</title>
+      <link>https://tzupingkao.github.io/categories/features/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tzupingkao.github.io/categories/features/</guid>
       <description></description>
     </item>
     
